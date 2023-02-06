@@ -8,5 +8,5 @@ mjsxj01视频合并。
 ### 使用方法
 1. 点击选择文件，选择视频文件夹。
 ![image](https://user-images.githubusercontent.com/67651900/216926348-1830c125-f34e-404a-a351-908adaea2a7c.png)
-2.点击合并视频，合并后的视频就保存在result目录下
+2. 点击合并视频，合并后的视频就保存在result目录下
 ![image](https://user-images.githubusercontent.com/67651900/216927067-06e4c889-f7c6-4ab2-a556-015b6e29912e.png)
